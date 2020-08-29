@@ -30,6 +30,15 @@
 		B42E1F3024FACF0500A159A5 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		B46F9CD624FAD19700CB6FCF /* Brain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brain.swift; sourceTree = "<group>"; };
 		B46F9CD924FAD24600CB6FCF /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = "<group>"; };
+		B46F9CDB24FAD72B00CB6FCF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B46F9CE624FAD8C400CB6FCF /* HomeScreenThree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreenThree.png; sourceTree = "<group>"; };
+		B46F9CE724FAD8C400CB6FCF /* ResultScreen4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ResultScreen4.png; sourceTree = "<group>"; };
+		B46F9CE824FAD8C400CB6FCF /* ResultScreenOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ResultScreenOne.png; sourceTree = "<group>"; };
+		B46F9CE924FAD8C400CB6FCF /* HomeScreenFour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreenFour.png; sourceTree = "<group>"; };
+		B46F9CEA24FAD8C400CB6FCF /* HomeScreenOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreenOne.png; sourceTree = "<group>"; };
+		B46F9CEB24FAD8C400CB6FCF /* ResultScreenThree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ResultScreenThree.png; sourceTree = "<group>"; };
+		B46F9CEC24FAD8C400CB6FCF /* ResultScreenTwo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ResultScreenTwo.png; sourceTree = "<group>"; };
+		B46F9CED24FAD8C400CB6FCF /* HomeScreenTwo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreenTwo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +55,8 @@
 		B42E1F1024FAC01E00A159A5 = {
 			isa = PBXGroup;
 			children = (
+				B46F9CDB24FAD72B00CB6FCF /* README.md */,
+				B46F9CE424FAD7FD00CB6FCF /* Screenshots */,
 				B42E1F1B24FAC01E00A159A5 /* BMI Calculator */,
 				B42E1F1A24FAC01E00A159A5 /* Products */,
 			);
@@ -98,6 +109,21 @@
 				B46F9CD924FAD24600CB6FCF /* BMI.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		B46F9CE424FAD7FD00CB6FCF /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				B46F9CE924FAD8C400CB6FCF /* HomeScreenFour.png */,
+				B46F9CEA24FAD8C400CB6FCF /* HomeScreenOne.png */,
+				B46F9CE624FAD8C400CB6FCF /* HomeScreenThree.png */,
+				B46F9CED24FAD8C400CB6FCF /* HomeScreenTwo.png */,
+				B46F9CE724FAD8C400CB6FCF /* ResultScreen4.png */,
+				B46F9CE824FAD8C400CB6FCF /* ResultScreenOne.png */,
+				B46F9CEB24FAD8C400CB6FCF /* ResultScreenThree.png */,
+				B46F9CEC24FAD8C400CB6FCF /* ResultScreenTwo.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
